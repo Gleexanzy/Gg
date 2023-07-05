@@ -1,7 +1,4 @@
-var config = {
-};
 
-log('simulation begins here')
 var config = {
     ScriptTitle: {
         type: 'noop',
