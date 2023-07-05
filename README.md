@@ -1,4 +1,7 @@
-# G
+var config = {
+};
+
+log('simulation begins here')
 var config = {
     ScriptTitle: {
         type: 'noop',
@@ -222,3 +225,4 @@ function onGameEnded() {
 function roundBit(bet) {
     return Math.round(bet / 100) * 100;
 }
+
