@@ -1,7 +1,7 @@
 
 srpt
 
-
+var config = { ScriptTitle: { type: 'noop', label: ' bustabit passive ' }, baseBet: { value: 2000, type: 'balance', label: 'beginning bet' },
 
 var config = {
     ScriptTitle: {
